@@ -7,7 +7,7 @@ The scripts are executed in this order
 3) ```unzip.py``` (it unzips the zip file downloaded from the s3 bucket)
 4) ```detection.py``` (it performs face mask detection)
 5) ```FaceDetection_2.py``` (it performs face recognition)
-6) ```sendingemail.py``` (it is concerned with sending mails)
+6) ```sendingemail.py``` (it is concerned with sending mails, it is present inside the folder ```Sendingmails```)
 
 
 Note:
